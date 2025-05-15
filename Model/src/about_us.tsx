@@ -8,7 +8,7 @@ const AboutUs: React.FC = () => {
       minHeight: '100vh',
       display: 'flex',
       flexDirection: 'column' as const,
-    },
+    }, 
     header: {
       display: 'flex',
       justifyContent: 'space-between',

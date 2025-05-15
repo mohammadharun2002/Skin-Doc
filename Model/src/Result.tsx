@@ -11,7 +11,7 @@ interface Medication {
   frequency: string;
   duration: string;
   specialInstructions: string;
-}
+} 
 
 interface PrescriptionData {
   diseaseName: string;
